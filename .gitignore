@@ -1,0 +1,4 @@
+.openai/
+outputs/
+*.tar.gz
+*.zip
